@@ -1,0 +1,5 @@
+python 3.8.0
+
+pip3 install pyarmor # pip/pip3
+# Syntax : pyarmor obfuscate --restrict=0 <filename>
+pyarmor obfuscate --restrict=0 utils.py
